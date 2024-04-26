@@ -72,7 +72,7 @@ def clean_text(text, clean_PD=False):
 
 st.set_page_config(page_title="Проверка договоров по чеклисту", page_icon="📝")
 st.title('Проверка договоров по чеклисту')
-clean_PD = st.sidebar.checkbox('Скрывать персональные данные', False)
+clean_PD = False #st.sidebar.checkbox('Скрывать персональные данные', False)
 uploaded_file = st.sidebar.file_uploader('Загрузите файл с договором для оценки...', type={ "docx"})
 
 
