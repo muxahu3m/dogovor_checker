@@ -1,6 +1,7 @@
 docx2txt==0.8
 fuzzywuzzy==0.18.0
 nltk
+openpyxl
 pandas==2.2.1
 plotly==5.16.1
 pymorphy2==0.9.1
