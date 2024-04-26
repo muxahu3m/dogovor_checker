@@ -6,7 +6,6 @@ import docx2txt
 import re
 import nltk
 import pymorphy2
-from dotenv import dotenv_values
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process 
 import pandas as pd
