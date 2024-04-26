@@ -1,0 +1,11 @@
+docx2txt==0.8
+dotenv
+fuzzywuzzy==0.18.0
+nltk
+pandas==2.2.1
+plotly==5.16.1
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
+pymorphy3==2.0.1
+pymorphy3-dicts-ru==2.4.417150.4580142
+streamlit==1.32.1
